@@ -17,7 +17,7 @@ Para rodar os algoritmos deste repositório, você precisará do Python (versão
 Você pode instalar todas as dependências necessárias executando o comando abaixo no seu terminal:
 
 ```bash
-pip install numpy matplotlib tsplib95
+pip install -r requirements.txt
 ```
 
 ---
