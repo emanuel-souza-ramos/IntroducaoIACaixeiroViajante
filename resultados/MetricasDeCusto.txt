@@ -18,6 +18,8 @@ a280:
 - Melhor distância da solução inicial: 33041.00
 - Melhor Distância: 25138.00
 
+----------------------------------------------------------
+
 Algoritmo Genético:
 
 berlin52:
